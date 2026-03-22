@@ -1,0 +1,6 @@
+# motion_blur.py — dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python-headless>=4.5.0   # headless build — no GUI deps, smaller install
+numpy>=1.21.0                    # vectorised frame arithmetic
+tqdm>=4.60.0                     # progress bars
